@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" measuredW="710" measuredH="325" mockupW="615" mockupH="240">
+  <controls>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Menu" x="85" y="98" w="-1" h="-1" measuredW="150" measuredH="65" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Open%2CCTRL+O%0A---%0AExit%2CCTRL+Q</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::MenuBar" x="85" y="75" w="-1" h="-1" measuredW="242" measuredH="29" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Model%2C%20Modify%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::MenuBar" x="363" y="76" w="-1" h="-1" measuredW="242" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Model%2C%20Modify%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Menu" x="423" y="101" w="-1" h="-1" measuredW="150" measuredH="85" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RGB%0AYUV%20%28lossy%29%0AYUV%20%28lossless%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::MenuBar" x="85" y="230" w="-1" h="-1" measuredW="242" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Model%2C%20Modify%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Menu" x="206" y="255" w="-1" h="-1" measuredW="150" measuredH="60" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Smooth%0ASharp</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::MenuBar" x="363" y="230" w="-1" h="-1" measuredW="242" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Model%2C%20Modify%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Menu" x="550" y="256" w="-1" h="-1" measuredW="150" measuredH="35" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

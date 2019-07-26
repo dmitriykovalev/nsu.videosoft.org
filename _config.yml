@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+title:
+author: Dmitriy Kovalev
+email: info@videosoft.org
+description: >
+  Веб-сайт посвящен сжатию данных и спецкурсах, читавшихся в НГУ в 2009-2010 годах.
+baseurl: ""
+url: "http://nsu.videosoft.org"
+github_username:  dmitriykovalev
+repository: dmitriykovalev/nsu.videosoft.org
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

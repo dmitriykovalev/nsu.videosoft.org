@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <head>
+		<script type="text/javascript">
+				function maxdiff(seq1, seq2) {
+					var result = 0
+					for(var i = 0; i < seq1.length; ++i) {
+						var diff = Math.abs(seq1[i] - seq2[i]);
+						if (diff > result) {
+							result = diff;
+						}
+					}
+				return result;
+			}
+
+			function predict(input, quant) {
+				var output = new Array(input.length);
+				output[0] = input[0];
+				for(var i = input.length - 1; i > 0; --i) {
+					output[i] = Math.floor((input[i] - input[i-1])/quant);
+					input[i] = input[i-1] + output[i]*quant;
+				}
+				return output;
+			}
+
+			function process() {
+				var quant = parseInt(document.getElementById("quant").value);
+				var input = document.getElementById("input").value.split(",").map(Number);
+				var result = input.slice(0);
+				var output = predict(result, quant);
+
+				document.getElementById("output").value = output.join(", ");
+				document.getElementById("result").value = result.join(", ");
+				document.getElementById("maxdiff").innerHTML = "Макс. ошибка: " + maxdiff(input, result);
+			}
+		</script>
+  </head>
+
+  <body>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+				<h1>Квантование разностей</h1>
+				<table>
+					<tr>
+						<td style="vertical-align:top;padding-right:10px; border-right: dashed gray 1px">
+							<form>
+								<label for="input">Исходная последовательность</label><br/>
+								<textarea id="input" rows="5" cols="50">234, 123, 125, 127, 130, 129, 135, 141, 137, 215, 222, 221, 230, 230, 225</textarea><br/>
+								<label for="quant">Квант</label><br/>
+								<input id="quant" size="2" value="1"/><br/><br/>
+								<hr/>
+								<div style="text-align:center">
+									<button onclick="process();return false;">Посчитать &rarr;</button>
+								<div>
+							</form>
+						</td>
+						<td style="padding-left:10px">
+							<form>
+								<label for="output">Проквантованные разности</label><br/>
+								<textarea id="output" rows="5" cols="50" readonly="readonly"></textarea><br/>
+								<label for="result">Восстановленная последовательность</label><br/>
+								<textarea id="result" rows="5" cols="50" readonly="readonly"></textarea><br/>
+								<div style="font-size:80%; text-align:right" id="maxdiff"></div>
+							</form>
+						</td>
+					</tr>
+				</table>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+</html>
+
+
