@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/strange-data-representation/
 title: Об одном странном представлении данных
 ---
 
