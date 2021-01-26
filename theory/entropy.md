@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/entropy/
 title: Сжатие данных и энтропия.
 ---
 
