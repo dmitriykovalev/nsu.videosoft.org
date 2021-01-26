@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/binom/
 title: Бином.
 ---
 
