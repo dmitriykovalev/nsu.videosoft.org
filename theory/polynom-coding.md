@@ -1,5 +1,6 @@
 ---
 layout: default
+parmalink: /theory/polynom-coding/
 title: Кодирование полиномом (polynom coding).
 ---
 
