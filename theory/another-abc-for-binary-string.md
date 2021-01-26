@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/another-abc-for-binary-string/
 title: Другой алфавит для битовой последовательности.
 ---
 
