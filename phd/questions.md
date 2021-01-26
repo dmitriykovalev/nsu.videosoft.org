@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /phd/questions/
 title: Дополнительные вопросы
 ---
 
