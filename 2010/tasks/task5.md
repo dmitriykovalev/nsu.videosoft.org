@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task5/
 title: Задание №5. Дискретное косинус-преобразование (2010)
 ---
 
