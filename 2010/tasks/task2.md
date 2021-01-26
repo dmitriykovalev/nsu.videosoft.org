@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task2/
 title: Задание №2. Энумеративное кодирование (2010)
 ---
 
