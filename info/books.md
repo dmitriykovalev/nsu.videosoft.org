@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /info/books/
 title: Полезная литература
 ---
 
