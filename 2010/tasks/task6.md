@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task6/
 title: Задание №6. Свой алгоритм сжатия изображений (2010)
 ---
 
