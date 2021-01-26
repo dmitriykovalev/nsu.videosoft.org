@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2008-2009/statistics/
+permalink: /2008-2009/tasks/statistics/
 title: Подсчет статистики
 ---
 
