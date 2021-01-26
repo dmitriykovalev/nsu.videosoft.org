@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/exam/
 title: Диф. зачет (2010)
 ---
 
