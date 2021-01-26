@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2009/program/
 title: Программа курса (2009)
 ---
 
