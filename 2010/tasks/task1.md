@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task1/
 title: Задание №1. Анализатор изображений (2010)
 ---
 
