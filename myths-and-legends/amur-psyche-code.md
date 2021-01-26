@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /myths-and-legends/amur-psyche-code/
 title: Мифы и легенды информатики - Код Амура и Психеи
 ---
 
