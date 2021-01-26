@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task3/
 title: Задание №3. Предикторы и квантование (2010)
 ---
 
