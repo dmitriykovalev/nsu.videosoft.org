@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2010/tasks/task5/
 title: Задание №4. Кодирование Хаффмана (2010)
 ---
 
