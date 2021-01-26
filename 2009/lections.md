@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2009/lections/
 title: Лекции (2009)
 ---
 
