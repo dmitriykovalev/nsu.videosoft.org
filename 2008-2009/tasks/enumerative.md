@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2008-2009/enumerative/
+permalink: /2008-2009/tasks/enumerative/
 title: Энумеративное кодирование
 ---
 
