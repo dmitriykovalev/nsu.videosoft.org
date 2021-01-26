@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2009/students/
 title: Список студентов и посещаемость (2009)
 ---
 
