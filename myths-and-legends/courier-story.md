@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /myths-and-legends/courier-story/
 title: Мифы и легенды информатики - История гонца
 ---
 
