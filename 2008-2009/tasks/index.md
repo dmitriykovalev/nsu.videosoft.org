@@ -28,5 +28,5 @@ c мультимедиа.
 жизни
 * [GIL (Generic Image Library)](https://stlab.adobe.com/gil/) --
 С++ библиотека для работы с изображениями
-* [PIL (Python Imaging Library)](http://www.pythonware.com/products/pil/) ---
+* [PIL (Python Imaging Library)](https://pillow.readthedocs.io/) ---
 библиотека для работы с изображениями для языка Python
