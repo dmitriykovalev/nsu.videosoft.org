@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /conferenses/redundancy2009/
 title: Redundancy 2009
 ---
 
