@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2009/tasks/
 title: Список заданий и результаты (2009)
 ---
 
