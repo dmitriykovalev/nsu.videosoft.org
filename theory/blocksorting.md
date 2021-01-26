@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/blocksorting/
 title: Сортировка блоков (blocksorting).
 ---
 
