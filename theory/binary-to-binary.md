@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /theory/binary-to-binary/
 title: Оригинальное преобразование битовой строки в битовую строку.
 ---
 
