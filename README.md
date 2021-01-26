@@ -1,1 +1,1 @@
-Спецкурсы по сжатию данных в НГУ (2009-2010 гг), https://nsu.videosoft.org/
+Спецкурсы по сжатию данных в [НГУ](https://www.nsu.ru/) (2009-2010 гг), https://nsu.videosoft.org/
