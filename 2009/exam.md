@@ -1,6 +1,6 @@
 ---
 layout: default
-permalkink: /2009/exam/
+permalink: /2009/exam/
 title: Диф. зачет (2009)
 ---
 
