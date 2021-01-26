@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /info/history/
 title: История развития сжатия данных
 ---
 
